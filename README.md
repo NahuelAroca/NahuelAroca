@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nahuel
 
-<!--
-**NahuelAroca/NahuelAroca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer focused on Node.js and APIs.
 
-Here are some ideas to get you started:
+## Tech Stack
+- JavaScript / TypeScript
+- Node.js
+- Express / NestJS
+- PostgreSQL
+- Git & Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- API REST Users
+- Task Manager API
+- Authentication Service
